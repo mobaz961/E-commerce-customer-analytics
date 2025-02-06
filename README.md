@@ -7,4 +7,4 @@
 
 #### Dataset: The Online Retail II UCI dataset
 #### Full report: Data Portfolio(E-commerce Customer Analytics).pdf
-#### Python code: E-commerce Customer Analytics.html
+#### Python code: E-commerce Customer Analytics.ipynb
